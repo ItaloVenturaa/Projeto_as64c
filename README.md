@@ -3,6 +3,7 @@ Alunos
 - Italo Pereira Ventura: 2467259
 - Igor Batista Lima: 2475855
 - Lucas Moura da Silva: 2349671
+- João Victor Guidoizi da Silva:
 
 # Site de Conceitos Básicos de Banco de Dados
 
