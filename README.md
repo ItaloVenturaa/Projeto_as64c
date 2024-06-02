@@ -37,5 +37,3 @@ O site visa fornecer uma introdução abrangente aos conceitos fundamentais de b
 
 Este projeto é licenciado sob a [Nome da Licença]. Veja o arquivo `LICENSE.md` para mais detalhes.
 
-# certificadora-comum
-Projeto em HTML, CSS e Javascript para a disciplina de Competencia de Certificadora Comum, do curso de Análise e Desenvolvimento de Sistemas, da Universidade Tencológica Federal do Paraná - Campus Cornélio Procópio. Este projeto acadêmico tem como objetivo introduzir os conhecimentos da linguagem SQL.
